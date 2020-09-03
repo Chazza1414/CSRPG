@@ -1,0 +1,15 @@
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\bin\Debug\CS_Coursework.exe.config
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\bin\Debug\CS_Coursework.exe
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\bin\Debug\CS_Coursework.pdb
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.csprojAssemblyReference.cache
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\MainWindow.g.cs
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\App.g.cs
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework_MarkupCompile.cache
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework_MarkupCompile.lref
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\MainWindow.baml
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.g.resources
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.Properties.Resources.resources
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.csproj.GenerateResource.cache
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.csproj.CoreCompileInputs.cache
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.exe
+E:\School\6th Form\Computer Science\Coursework\RPG\.git\CS_RPG\CS_Coursework\obj\Debug\CS_Coursework.pdb
